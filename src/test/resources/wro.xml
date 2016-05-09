@@ -4,6 +4,7 @@
     <group name="other">
         <css>classpath:static/css/first.css</css>
         <css>classpath:static/css/second.css</css>
+        <css>webjar:fontawesome.css</css>
     </group>
 
 </groups>
