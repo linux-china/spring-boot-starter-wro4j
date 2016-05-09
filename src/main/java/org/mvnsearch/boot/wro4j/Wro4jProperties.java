@@ -15,7 +15,7 @@ public class Wro4jProperties {
 
     private String urlPattern = "/wro/*";
 
-    private String uriLocators = "servletContext,classpath,uri,webjar";
+    private String uriLocators = "servletContext,uri,classpath,webjar";
 
     private String preProcessors = "cssUrlRewriting,cssImport,semicolonAppender,lessCss";
 
